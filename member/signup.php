@@ -42,7 +42,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#">ICT LABORATORY MANAGEMENT SYSTEM</a>
+				<a class="navbar-brand" href="#">LABORATORY MANAGEMENT</a>
 			</div>
 							
 		</div><!-- /.container-fluid -->
@@ -85,7 +85,7 @@
 					<h4 class="">Sign up - Student</h4>
 					<hr>
 					<div class="form-group">
-						<label>School ID Number</label>
+						<label>NIM</label>
 						<input type="number" name="sid_number" class="form-control" required autocomplete="off">
 					</div>
 					<div class="form-group">
@@ -109,16 +109,21 @@
 						<input type="tel" name="s_contact" class="form-control" required autocomplete="off">
 					</div>
 					<div class="form-group">
-						<label>Department</label>
+						<label>Class</label>
 						<select name="s_department" class="form-control" required>
 							<option disabled selected>Select department</option>
-							<option>AB</option>
-							<option>BEED</option>
-							<option>BSED</option>
-							<option>BSCE</option>
-							<option>BSHRM</option>
-							<option>BSIS</option>
-							<option>BSIT</option>
+							<option>1A</option>
+							<option>1B</option>
+							<option>1C</option>
+							<option>1D</option>
+							<option>2A</option>
+							<option>2B</option>
+							<option>2C</option>
+							<option>2D</option>
+							<option>3A</option>
+							<option>3B</option>
+							<option>2C</option>
+							<option>3D</option>
 						</select>
 					</div>
 					<div class="form-group hide">
@@ -157,7 +162,7 @@
 					<h4 class="">Sign up - Faculty</h4>
 					<hr>
 					<div class="form-group">
-						<label>School ID Number</label>
+						<label>NIM</label>
 						<input type="number" name="f_id" class="form-control" required autocomplete="off">
 					</div>
 					<div class="form-group">
@@ -184,13 +189,18 @@
 						<label>Department</label>
 						<select name="f_department" class="form-control" required>
 							<option disabled selected>Select department</option>
-							<option>AB</option>
-							<option>BEED</option>
-							<option>BSED</option>
-							<option>BSCE</option>
-							<option>BSHRM</option>
-							<option>BSIS</option>
-							<option>BSIT</option>
+							<option>1A</option>
+							<option>1B</option>
+							<option>1C</option>
+							<option>1D</option>
+							<option>2A</option>
+							<option>2B</option>
+							<option>2C</option>
+							<option>2D</option>
+							<option>3A</option>
+							<option>3B</option>
+							<option>2C</option>
+							<option>3D</option>
 						</select>
 					</div>
 					<div class="form-group">

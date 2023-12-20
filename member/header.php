@@ -51,7 +51,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#"> ICT LABORATORY MANAGEMENT SYSTEM</a>
+				<a class="navbar-brand" href="#"> LABORATORY MANAGEMENT</a>
 				<ul class="user-menu">
 					<li class="dropdown pull-right">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">

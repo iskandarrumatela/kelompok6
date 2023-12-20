@@ -146,7 +146,7 @@ include 'header.php';
 					<table class="table table_member">
 						<thead>
 							<tr>
-								<th>ID Number</th>
+								<th>NIM</th>
 								<th>Name</th>
 								<th>Gender</th>
 								<th>Contact</th>
